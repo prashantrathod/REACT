@@ -1,15 +1,31 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# REACT
+React Dev
+The course defines Learning objectives for React development:
 
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md).
+Unit 1:
+- using create-react-app 
+- understanding folder structure
+- understanding component basics
+- understanding JSX
+- creating a functional component
+- outputting dynamic content
+- working with props
+- children property
+- prop and state
+- handling events with methods
+- maipulating the state
+- Functional (Stateless) vs class (Stateful) Components
+- passing method references between components
+- two way binding
+- working with styles
 
-## Table of Contents
 
-- [Updating to New Releases](#updating-to-new-releases)
-- [Sending Feedback](#sending-feedback)
-- [Folder Structure](#folder-structure)
-- [Available Scripts](#available-scripts)
-  - [npm start](#npm-start)
+Unit 2:
+
+
+Unit 3:
+
+pm start](#npm-start)
   - [npm test](#npm-test)
   - [npm run build](#npm-run-build)
   - [npm run eject](#npm-run-eject)
